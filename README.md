@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning from scratch
 - 📫 romeoronnie00@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+.
 
 <!---
 romeoe1/romeoe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
